@@ -1,5 +1,5 @@
 Using Tensor contraction to store geological model objects
-=KRUTYE=
+=*KRUTYE*=
 Daniil Sherki, Egor Cherepanov, Egor Malkershin
 
 A three-dimensional geological model of a hydrocarbon reservoir is a three-dimensional representation of a reservoir in the form of a multidimensional object, which maximally reflects the geological structure of the object under study and is used to study the field production processes. As a result, a geological model is a copy of a real oil/gas field, but in the form of a set of cells of different size (often 5𝑚 × 5𝑚 × 1𝑚), the grid of cells stores various properties: saturation, permeability along the directions, porosity, etc.
